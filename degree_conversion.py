@@ -6,5 +6,10 @@ c = int(input('Enter a temperature in Celcius to be converted to Farenheit '))
 f = (c * 1.8) + 32
 
 #return the original temp in celsius as well as converted to fahrenheit
+#extra blank prints simply for formatting
+print()
+print()
 print(f'''You gave me {c} degrees Celsius
 I give you {f} degrees Fahrenheit''')
+print()
+print()
