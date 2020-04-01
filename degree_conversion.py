@@ -1,4 +1,3 @@
-
 #prompt user to input a number to represent degrees celsius
 c = int(input('Enter a temperature in Celcius to be converted to Farenheit '))
 
