@@ -1,7 +1,7 @@
 import random
 #number getting game 
 #give user 5 chances
-attempt = 5
+#attempt = 5
 
 #accept user input
 guess = int(input('Guess  a number 1-10 '))
